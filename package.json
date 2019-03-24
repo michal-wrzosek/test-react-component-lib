@@ -1,10 +1,15 @@
 {
-  "name": "react-component-lib",
+  "name": "test-react-component-lib",
   "version": "0.1.0",
   "main": "dist/reactComponentLib.cjs.js",
   "module": "dist/reactComponentLib.esm.js",
+  "author": {
+    "name": "Michał Wrzosek",
+    "email": "michal@wrzosek.pl",
+    "url": "https://moichal.wrzosek.pl"
+  },
   "repository": {
-    "url": "https://github.com/michal-wrzosek/react-component-lib",
+    "url": "https://github.com/michal-wrzosek/test-react-component-lib",
     "type": "git"
   },
   "license": "MIT",
