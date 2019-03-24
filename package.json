@@ -8,6 +8,7 @@
     "email": "michal@wrzosek.pl",
     "url": "https://moichal.wrzosek.pl"
   },
+  "homepage": "https://github.com/michal-wrzosek/test-react-component-lib",
   "repository": {
     "url": "https://github.com/michal-wrzosek/test-react-component-lib",
     "type": "git"
