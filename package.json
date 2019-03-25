@@ -1,8 +1,8 @@
 {
   "name": "test-react-component-lib",
-  "version": "0.1.0",
-  "main": "dist/reactComponentLib.cjs.js",
-  "module": "dist/reactComponentLib.esm.js",
+  "version": "0.1.1",
+  "main": "dist/index.cjs.js",
+  "module": "dist/index.esm.js",
   "author": {
     "name": "Michał Wrzosek",
     "email": "michal@wrzosek.pl",
